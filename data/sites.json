@@ -1,0 +1,402 @@
+[
+  {
+    "id": "site-001",
+    "isfeatured": true,
+    "category": "bridge",
+    "designation_type": "International",
+    "year": 1917,
+    "construction_start": 1911,
+    "designation_year": 1987,
+    "name": {
+      "en": "Quebec Bridge",
+      "fr": "Pont de Québec"
+    },
+    "location": "Québec, QC",
+    "region": "Quebec",
+    "coordinates": {
+      "lat": 46.7460433,
+      "lng": -71.288093
+    },
+    "engineer": "Lt. Colonel Charles N. Monsarrat, Ralph Modjeski, Charles C. Schneider, Phelps Johnson, George Herrick Duggan, Philip Louis Pratley",
+    "contractor": "St. Lawrence Bridge Co., Dominion Bridge Co. Ltd.",
+    "description": {
+      "en": "The Quebec Bridge is a steel cantilever bridge that carries road, rail and pedestrian traffic across the St. Lawrence River between Sainte-Foy and Lévis. The bridge has a main span of 549 m (1800 ft.) and a total length of 987 m (3238 ft.).",
+      "fr": "Le pont de Québec est un pont cantilever en acier qui porte la circulation routière, ferroviaire et piétonne à travers le fleuve Saint-Laurent entre Sainte-Foy et Lévis. Le pont a une portée principale de 549 m (1800 pi.) et une longueur totale de 987 m (3238 pi.)."
+    },
+    "detailed_description": {
+      "en": "The Quebec Bridge stands as a testament to both engineering ambition and the lessons learned from tragedy. This massive steel cantilever structure carries road, rail and pedestrian traffic across the St. Lawrence River between Sainte-Foy and Lévis, with a main span of 549 m (1800 ft.) and a total length of 987 m (3238 ft.).\n\n**The First Collapse (1907)**\n\nThe original design met with disaster on August 29, 1907, when compression chords near the root of the cantilever buckled during construction, killing 75 workers. A subsequent Royal Commission of Inquiry blamed the collapse on inadequate design by P. L. Szlapka of the Phoenix Bridge Company, inadequate checking by Theodore Cooper, and the failure to appoint an experienced bridge engineer as Chief Engineer.\n\n**The Second Attempt**\n\nA Board of Engineers was appointed in 1908 to prepare a new design. On April 4th, 1911, the construction contract was signed with the St. Lawrence Bridge Company. Lt. Colonel Charles N. Monsarrat was appointed as Chairman and Chief Engineer, working alongside Ralph Modjeski, Charles C. Schneider, Phelps Johnson, George Herrick Duggan, and Philip Louis Pratley.\n\n**The Second Collapse (1916)**\n\nTragedy struck again on September 11, 1916, when a casting failed during the lifting of the suspended span, killing 13 workers. A new suspended span was fabricated and successfully erected on September 20, 1917. A ceremonial train finally crossed the bridge on October 17, 1917.\n\n**Legacy and Current Status**\n\nThe bridge was built as part of the National Transcontinental Railway, which later became part of Canadian National Railway (CN). The bridge remains in active service today, though it was identified in 2015 by the National Trust of Canada as one of the ten most endangered historic sites in Canada, due to long overdue paint and repair work.",
+      "fr": "Le pont de Québec demeure un témoignage de l'ambition des ingénieurs et des leçons tirées de la tragédie. Cette imposante structure en acier à poutres en porte-à-faux assure la circulation routière, ferroviaire et piétonnière entre Sainte-Foy et Lévis, en enjambant le fleuve Saint-Laurent. Il possède une travée principale de 549 m (1 800 pi) et une longueur totale de 987 m (3 238 pi)."
+    },
+    "historic_significance": {
+      "en": "The Quebec Bridge holds several important distinctions in engineering history.\n\n**World Records**\n\nThe 549 m (1800 ft.) main span remains the longest cantilever span in the world. It was the first major bridge to use the K-truss design, proposed by Johnson, which greatly facilitated its erection, and the first bridge in North America to use nickel steel in its construction.\n\n**Engineering Innovation**\n\nAlthough prominent international experts served on the Board of Engineers, Canadians were largely responsible for its design and construction, marking a significant achievement in Canadian engineering capability.\n\n**Human Cost and Memory**\n\nThe bridge's construction came at a tremendous human cost, with 88 workers losing their lives across two collapses. Thirty-three of the workers killed in the first collapse were Mohawk ironworkers from the Kahnawake reserve near Montréal, representing a devastating loss to this small indigenous community. Their sacrifice is remembered as part of the bridge's legacy and the broader story of indigenous contributions to Canada's infrastructure development.",
+      "fr": "Le pont de Québec détient plusieurs distinctions importantes dans l'histoire de l'ingénierie. La portée principale de 549 m (1800 pi.) demeure la plus longue portée cantilever au monde. C'est le premier pont majeur à utiliser le treillis en K, proposé by Johnson, qui a grandement facilité son érection, et le premier pont en Amérique du Nord à utiliser l'acier au nickel dans sa construction."
+    },
+    "plaque_description": {
+      "en": "International Historic Civil Engineering Landmark. ASCE. CSCE. THE QUEBEC BRIDGE. Completed 1917. Designed and constructed under the supervision of Canadian and American engineers on the site of the major bridge failure of 1907. This bridge was constructed under the authority of the Department of Railways and Canals of Canada. The central span of 549 metres is the longest cantilever span in the world. This plaque presented May 23, 1987. American Society of Civil Engineers. Canadian Society for Civil Engineering.",
+      "fr": "Monument Historique International du Génie Civil. LE PONT DE QUEBEC. Terminé en 1917. Conçu et construit sous la direction d'ingénieurs canadiens et américains sur le site de l'effondrement majeur de 1907. Ce pont a été construit pur le ministére des Chemins de fer et des canaux du Canada. La travée centrale de 549 metres est la plus longue travée en porte-á-faux au monte. Cette plaque a été présentée le 23 mai 1987. La sociéte canadienne de genie civil. La sociéte américaine des ingénieurs civil."
+    },
+    "plaque_location": {
+      "en": "On the face of a pedestal (GPS: 46.750147, -71.290260) in a small park at the east side of the north end of the bridge. From the directions above turn right, not left, on Avenue des Hôtels and park in the lot on the left. Follow roads and trails approximately 270 m in the south west direction towards the bridge, keeping the Quebec Aquarium on your left.",
+      "fr": "Sur la face d'un piédestal (GPS: 46.750147, -71.290260) dans un petit parc du côté est de l'extrémité nord du pont."
+    },
+    "plaque_unveiling": {
+      "en": "May 23, 1987. Present at the unveiling ceremony were: Chris Thompson, CSCE President; Dan Barge, ASCE President; Suzanne Duplessis, MP for Louis-Hébert; Gil Rémillard, Québec Minister of International Relations, and Andrée Boucher, Mayor of Sainte-Foy. Yves M. Giroux of Laval University described the historic significance of the bridge.",
+      "fr": "23 mai 1987. Présents à la cérémonie de dévoilement étaient: Chris Thompson, président SCGC; Dan Barge, président ASCE; Suzanne Duplessis, députée de Louis-Hébert; Gil Rémillard, ministre québécois des Relations internationales, et Andrée Boucher, maire de Sainte-Foy."
+    },
+    "external_links": [
+      {
+        "title": {
+          "en": "Canada's Historic Places - Québec Bridge National Historic Site",
+          "fr": "Lieux patrimoniaux du Canada - Site historique national du pont de Québec"
+        },
+        "url": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=3938"
+      },
+      {
+        "title": {
+          "en": "National Film Board of Canada - High Steel (1966)",
+          "fr": "Office national du film du Canada - High Steel (1966)"
+        },
+        "url": "https://www.nfb.ca/film/high_steel/"
+      },
+      {
+        "title": {
+          "en": "Pont de Québec - historicbridges.org",
+          "fr": "Pont de Québec - historicbridges.org"
+        },
+        "url": "https://historicbridges.org/bridges/browser/?bridgebrowser=canada/quebec/"
+      },
+      {
+        "title": {
+          "en": "A Community's Loss - Canada's History",
+          "fr": "La perte d'une communauté - Histoire du Canada"
+        },
+        "url": "https://www.canadashistory.ca/explore/first-nations-inuit-metis/a-communitys-loss"
+      }
+    ],
+    "site_location": {
+      "en": "**GPS Coordinates**\n\nLatitude: 46° 44' 46\" N\nLongitude: 71° 17' 17\" W\n(GPS: 46.7460433, -71.288093)\n\n**Access Information**\n\nThe bridge lanes are one-way, southbound from Sainte-Foy to Lévis.\n\n**Driving Directions**\n\nFrom Trans-Canada Highway (Autoroute 20): Take Exit 312N to merge onto Autoroute 73 N toward Québec/Pont Pierre-Laporte. After crossing the St. Lawrence River on Pont Pierre-Laporte, take Exit 132 toward Avenue des Hôtels. Turn left on Avenue des Hôtels, then left again to merge onto QC-175 S toward Pont de Québec.",
+      "fr": "**Coordonnées GPS**\n\nLatitude: 46° 44' 46\" N\nLongitude: 71° 17' 17\" O\n(GPS: 46.7460433, -71.288093)\n\n**Information d'accès**\n\nLes voies sur le pont sont à sens unique, vers le sud de Sainte-Foy à Lévis."
+    },
+    "acknowledgments": {
+      "en": "This International Civil Engineering Landmark is commemorated jointly by CSCE and the ASCE (American Society of Civil Engineers). Special recognition to the memory of the 88 workers who lost their lives during the bridge's construction, including 33 Mohawk ironworkers from the Kahnawake reserve.",
+      "fr": "Ce monument historique international du génie civil est commémoré conjointement par la SCGC et l'ASCE (American Society of Civil Engineers). Reconnaissance spéciale à la mémoire des 88 travailleurs qui ont perdu la vie lors de la construction du pont, y compris 33 ouvriers mohawks de la réserve de Kahnawake."
+    },
+    "images": {
+      "hero": "images/sites/site-001/hero.png",
+      "gallery": [
+        {
+          "src": "images/sites/site-001/construction-1907.png",
+          "caption": {
+            "en": "South cantilever arm of first Québec Bridge on August 29, 1907.",
+            "fr": "Bras sud du premier pont de Québec le 29 août 1908."
+          }
+        },
+        {
+          "src": "images/sites/site-001/wreckage-1907.png",
+          "caption": {
+            "en": "Wreckage of the cantilever and anchor arm, August 1907.",
+            "fr": "Épave du cantilever et du bras d'ancrage, août 1907."
+          }
+        },
+        {
+          "src": "images/sites/site-001/construction-1916.png",
+          "caption": {
+            "en": "South cantilever arm of second Québec Bridge under construction, 1916.",
+            "fr": "Bras cantilever sud du deuxième pont de Québec en construction, 1916."
+          }
+        },
+        {
+          "src": "images/sites/site-001/collapse-1916.png",
+          "caption": {
+            "en": "Collapse of the suspended span during erection, September 11, 1916.",
+            "fr": "Effondrement de la travée suspendue pendant l'érection, 11 septembre 1916."
+          }
+        },
+        {
+          "src": "images/sites/site-001/duggan-portrait.png",
+          "caption": {
+            "en": "George Herrick Duggan (1862-1946), lead designer of the Québec Bridge.",
+            "fr": "George Herrick Duggan (1862-1946), concepteur principal du pont de Québec."
+          }
+        },
+        {
+          "src": "images/sites/site-001/plaque.png",
+          "caption": {
+            "en": "Plaque on face of pedestal, beneath red Historic Sites of Canada plaque.",
+            "fr": "Plaque sur la face du piédestal, sous la plaque rouge des Sites historiques du Canada."
+          }
+        },
+        {
+          "src": "images/sites/site-001/plaque-detail.png",
+          "caption": {
+            "en": "Detailed text on the plaque.",
+            "fr": "Détail du texte sur la plaque."
+          }
+        }
+      ]
+    },
+    "image": "images/sites/site-001/hero.png"
+  },
+  {
+    "id": "site-002",
+    "isfeatured": true,
+    "category": "building",
+    "designation_type": "National",
+    "year": 1976,
+    "construction_start": 1973,
+    "designation_year": 1995,
+    "name": {
+      "en": "CN Tower",
+      "fr": "Tour CN"
+    },
+    "location": "Toronto, Ontario",
+    "region": "Ontario",
+    "coordinates": {
+      "lat": 43.6426,
+      "lng": -79.3871
+    },
+    "engineer": "John Andrews Architects, Webb Zerafa Menkes Housden",
+    "contractor": "Foundation Company of Canada",
+    "description": {
+      "en": "The CN Tower is a 553.3 m-high concrete communications and observation tower located in Downtown Toronto. Built on the former Railway Lands, it was completed in 1976. Its construction was a significant engineering achievement and it held the record for the world's tallest free-standing structure for 32 years.",
+      "fr": "La Tour CN est une tour de communication et d'observation en béton de 553,3 m de haut située dans le centre-ville de Toronto. Construite sur les anciens terrains ferroviaires, elle a été achevée en 1976. Sa construction a été un exploit d'ingénierie important et elle a détenu le record de la plus haute structure autoportante du monde pendant 32 ans."
+    },
+    "detailed_description": {
+      "en": "The CN Tower represents one of the most ambitious engineering projects ever undertaken in Canada. Standing at 553.3 meters tall, this concrete giant was built to solve Toronto's communication problems caused by the growing number of skyscrapers interfering with television and radio signals.\n\n**Innovative Design**\n\nThe tower's innovative design features a hexagonal concrete core with three curved support legs, creating both structural stability and aesthetic appeal. The structure was designed to withstand extreme weather conditions including high winds and ice storms.\n\n**Construction Challenges**\n\nConstruction required innovative techniques including a slip-form method that allowed continuous concrete pouring over 24 hours a day. The installation of the 102-meter antenna required helicopter precision and was completed in sections.\n\n**Legacy and Impact**\n\nBeyond its practical purpose, the CN Tower has become Toronto's most recognizable landmark and a symbol of Canadian engineering excellence, attracting millions of visitors annually to its observation decks and revolving restaurant.",
+      "fr": "La Tour CN représente l'un des projets d'ingénierie les plus ambitieux jamais entrepris au Canada. Mesurant 553,3 mètres de haut, ce géant de béton a été construit pour résoudre les problèmes de communication de Toronto causés par le nombre croissant de gratte-ciel interférant avec les signaux de télévision et de radio."
+    },
+    "plaque_description": {
+      "en": "This plaque recognizes the CN Tower as a National Historic Civil Engineering Site, celebrating its innovative design and construction as the world's tallest free-standing structure and its role as an iconic symbol of Toronto and Canada.",
+      "fr": "Cette plaque reconnaît la Tour CN comme site historique national de génie civil, célébrant sa conception et construction innovantes comme la plus haute structure autoportante du monde et son rôle comme symbole emblématique de Toronto et du Canada."
+    },
+    "external_links": [
+      {
+        "title": {
+          "en": "CN Tower Official Website",
+          "fr": "Site officiel de la Tour CN"
+        },
+        "url": "https://www.cntower.ca"
+      },
+      {
+        "title": {
+          "en": "Structurae - CN Tower",
+          "fr": "Structurae - Tour CN"
+        },
+        "url": "https://structurae.net/en/structures/cn-tower"
+      }
+    ],
+    "acknowledgments": {
+      "en": "Special recognition to Canadian National Railway, the City of Toronto, and the skilled workers and engineers who made this architectural marvel possible.",
+      "fr": "Reconnaissance spéciale au Canadien National, à la Ville de Toronto, et aux travailleurs et ingénieurs qualifiés qui ont rendu cette merveille architecturale possible."
+    },
+    "images": {
+      "hero": "https://picsum.photos/1200/800",
+      "gallery": [
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600"
+      ]
+    },
+    "image": "https://picsum.photos/1200/800"
+  },
+  {
+    "id": "site-003",
+    "isfeatured": true,
+    "category": "bridge",
+    "designation_type": "National",
+    "year": 1997,
+    "construction_start": 1993,
+    "designation_year": 1998,
+    "name": {
+      "en": "Confederation Bridge",
+      "fr": "Pont de la Confédération"
+    },
+    "location": "Prince Edward Island / New Brunswick",
+    "region": "Atlantic",
+    "coordinates": {
+      "lat": 46.1351,
+      "lng": -63.8274
+    },
+    "engineer": "Strait Crossing Development Inc.",
+    "contractor": "Strait Crossing Joint Venture",
+    "description": {
+      "en": "The Confederation Bridge is a box girder bridge carrying the Trans-Canada Highway across the Abegweit Passage of the Northumberland Strait, linking Prince Edward Island with mainland New Brunswick. The 12.9-kilometre bridge opened on May 31, 1997, and is the longest bridge in Canada spanning ice-covered water.",
+      "fr": "Le pont de la Confédération est un pont à poutres-caissons qui porte la route transcanadienne à travers le passage Abegweit du détroit de Northumberland, reliant l'Île-du-Prince-Édouard au Nouveau-Brunswick continental. Le pont de 12,9 kilomètres a ouvert le 31 mai 1997 et est le plus long pont au Canada enjambant des eaux couvertes de glace."
+    },
+    "images": {
+      "hero": "https://picsum.photos/1200/800",
+      "gallery": [
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600",
+        "https://picsum.photos/800/600"
+      ]
+    },
+    "image": "https://picsum.photos/1200/800"
+  },
+  {
+    "id": "site-004",
+    "isfeatured": false,
+    "category": "infrastructure",
+    "designation_type": "National",
+    "year": 1832,
+    "designation_year": 2007,
+    "name": {
+      "en": "Rideau Canal",
+      "fr": "Canal Rideau"
+    },
+    "location": "Ottawa to Kingston, Ontario",
+    "region": "Ontario",
+    "coordinates": {
+      "lat": 45.4215,
+      "lng": -75.6972
+    },
+    "description": {
+      "en": "The Rideau Canal is a 202-kilometre waterway linking the cities of Ottawa and Kingston in Ontario, Canada. The canal was opened in 1832 as a precaution in case of war with the United States and is the oldest continuously operated canal system in North America. It was designated a UNESCO World Heritage Site in 2007.",
+      "fr": "Le canal Rideau est une voie navigable de 202 kilomètres reliant les villes d'Ottawa et de Kingston en Ontario, au Canada. Le canal a été ouvert en 1832 par précaution en cas de guerre avec les États-Unis et est le plus ancien système de canaux en fonctionnement continu en Amérique du Nord. Il a été désigné site du patrimoine mondial de l'UNESCO en 2007."
+    },
+    "images": {
+      "hero": "https://picsum.photos/1200/800",
+      "gallery": []
+    },
+    "image": "images/sites/site-004.jpg"
+  },
+  {
+    "id": "site-005",
+    "isfeatured": false,
+    "category": "bridge",
+    "designation_type": "Regional",
+    "year": 1938,
+    "designation_year": 2005,
+    "name": {
+      "en": "Lions Gate Bridge",
+      "fr": "Pont Lions Gate"
+    },
+    "location": "Vancouver, British Columbia",
+    "region": "West",
+    "coordinates": {
+      "lat": 49.3139,
+      "lng": -123.1394
+    },
+    "description": {
+      "en": "The Lions Gate Bridge is a suspension bridge that crosses the first narrows of Burrard Inlet and connects the City of Vancouver, British Columbia, to the North Shore municipalities of the District of North Vancouver, the City of North Vancouver, and West Vancouver. The bridge was opened to traffic on May 29, 1938.",
+      "fr": "Le pont Lions Gate est un pont suspendu qui traverse le premier goulet de Burrard Inlet et relie la ville de Vancouver, en Colombie-Britannique, aux municipalités de la Rive-Nord du district de North Vancouver, de la ville de North Vancouver et de West Vancouver. Le pont a été ouvert à la circulation le 29 mai 1938."
+    },
+    "images": {
+      "hero": "images/sites/site-005.jpg",
+      "gallery": []
+    },
+    "image": "images/sites/site-005.jpg"
+  },
+  {
+    "id": "site-006",
+    "isfeatured": false,
+    "category": "infrastructure",
+    "designation_type": "National",
+    "year": 1885,
+    "designation_year": 1988,
+    "name": {
+      "en": "Canadian Pacific Railway",
+      "fr": "Chemin de fer Canadien Pacifique"
+    },
+    "location": "Across Canada",
+    "region": "National",
+    "coordinates": {
+      "lat": 51.0447,
+      "lng": -114.0719
+    },
+    "description": {
+      "en": "The Canadian Pacific Railway is a historic Canadian Class I railway incorporated in 1881. The railway was originally built between eastern Canada and British Columbia between 1881 and 1885, fulfilling a commitment extended to British Columbia when it entered Confederation in 1871. It was Canada's first transcontinental railway.",
+      "fr": "Le chemin de fer Canadien Pacifique est un chemin de fer historique canadien de classe I incorporé en 1881. Le chemin de fer a été construit à l'origine entre l'est du Canada et la Colombie-Britannique entre 1881 et 1885, respectant un engagement pris envers la Colombie-Britannique lorsqu'elle est entrée dans la Confédération en 1871. C'était le premier chemin de fer transcontinental du Canada."
+    },
+    "images": {
+      "hero": "images/sites/site-006.jpg",
+      "gallery": []
+    },
+    "image": "images/sites/site-006.jpg"
+  },
+  {
+    "id": "site-007",
+    "isfeatured": false,
+    "category": "infrastructure",
+    "designation_type": "Regional",
+    "year": 1825,
+    "designation_year": 1996,
+    "name": {
+      "en": "Lachine Canal",
+      "fr": "Canal de Lachine"
+    },
+    "location": "Montreal, Quebec",
+    "region": "Quebec",
+    "coordinates": {
+      "lat": 45.4515,
+      "lng": -73.6677
+    },
+    "description": {
+      "en": "The Lachine Canal is a historic canal in Montreal, Quebec, Canada. Built to bypass the Lachine Rapids on the Saint Lawrence River, it enabled ships to pass between the lower and upper Saint Lawrence. The canal was crucial to Montreal's development as a major port and industrial center.",
+      "fr": "Le canal de Lachine est un canal historique à Montréal, Québec, Canada. Construit pour contourner les rapides de Lachine sur le fleuve Saint-Laurent, il permettait aux navires de passer entre le bas et le haut Saint-Laurent. Le canal était crucial pour le développement de Montréal comme port majeur et centre industriel."
+    },
+    "images": {
+      "hero": "images/sites/site-007.jpg",
+      "gallery": []
+    },
+    "image": "images/sites/site-007.jpg"
+  },
+  {
+    "id": "site-008",
+    "isfeatured": false,
+    "category": "bridge",
+    "designation_type": "National",
+    "year": 1859,
+    "designation_year": 1999,
+    "name": {
+      "en": "Victoria Bridge",
+      "fr": "Pont Victoria"
+    },
+    "location": "Montreal, Quebec",
+    "region": "Quebec",
+    "coordinates": {
+      "lat": 45.4681,
+      "lng": -73.5341
+    },
+    "description": {
+      "en": "The Victoria Bridge is a bridge over the St. Lawrence River, linking Montreal, Quebec, to the south shore. Originally a tubular bridge designed by Robert Stephenson, it was the first bridge to span the St. Lawrence River and was considered an engineering marvel of its time.",
+      "fr": "Le pont Victoria est un pont sur le fleuve Saint-Laurent, reliant Montréal, Québec, à la rive sud. Initialement un pont tubulaire conçu par Robert Stephenson, c'était le premier pont à enjamber le fleuve Saint-Laurent et était considéré comme une merveille d'ingénierie de son époque."
+    },
+    "images": {
+      "hero": "images/sites/site-008.jpg",
+      "gallery": []
+    },
+    "image": "images/sites/site-008.jpg"
+  },
+  {
+    "id": "site-009",
+    "isfeatured": false,
+    "category": "bridge",
+    "designation_type": "Regional",
+    "year": 1909,
+    "designation_year": 1980,
+    "name": {
+      "en": "Lethbridge Viaduct",
+      "fr": "Viaduc de Lethbridge"
+    },
+    "location": "Lethbridge, Alberta",
+    "region": "Prairies",
+    "coordinates": {
+      "lat": 49.6928,
+      "lng": -112.8228
+    },
+    "description": {
+      "en": "The Lethbridge Viaduct, also known as the High Level Bridge, is a railway trestle bridge that spans the Oldman River valley in Lethbridge, Alberta. At 96 metres high and 1.6 kilometres long, it was the longest and highest steel trestle bridge in the world when completed.",
+      "fr": "Le viaduc de Lethbridge, également connu sous le nom de pont High Level, est un pont de chevalets ferroviaire qui enjambe la vallée de la rivière Oldman à Lethbridge, Alberta. À 96 mètres de haut et 1,6 kilomètre de long, c'était le pont de chevalets en acier le plus long et le plus haut du monde lors de son achèvement."
+    },
+    "images": {
+      "hero": "images/sites/site-009.jpg",
+      "gallery": []
+    },
+    "image": "images/sites/site-009.jpg"
+  }
+]

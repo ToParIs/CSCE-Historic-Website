@@ -1,0 +1,90 @@
+{
+  "home": {
+    "hero": {
+      "title": {
+        "en": "Preserving Canada's Engineering Heritage",
+        "fr": "Préserver le patrimoine d'ingénierie du Canada"
+      },
+      "subtitle": {
+        "en": "Discover the remarkable civil engineering achievements that shaped our nation",
+        "fr": "Découvrez les remarquables réalisations de génie civil qui ont façonné notre nation"
+      },
+      "cta": {
+        "en": "Explore Historic Sites",
+        "fr": "Explorer les sites historiques"
+      }
+    },
+    "stats": {
+      "title": {
+        "en": "Our Impact",
+        "fr": "Notre impact"
+      }
+    },
+    "featured": {
+      "title": {
+        "en": "Featured Historic Sites",
+        "fr": "Sites historiques en vedette"
+      },
+      "subtitle": {
+        "en": "Explore some of Canada's most significant civil engineering landmarks",
+        "fr": "Explorez certains des monuments de génie civil les plus importants du Canada"
+      }
+    }
+  },
+  "about": {
+    "title": {
+      "en": "About the Committee",
+      "fr": "À propos du comité"
+    },
+    "intro": {
+      "en": "The CSCE National History Committee is dedicated to preserving and promoting Canada's rich civil engineering heritage through the identification, documentation, and commemoration of significant historic sites.",
+      "fr": "Le Comité national d'histoire de la SCGC se consacre à la préservation et à la promotion du riche patrimoine de génie civil du Canada par l'identification, la documentation et la commémoration de sites historiques importants."
+    },
+    "operations": {
+      "title": {
+        "en": "Our Operations",
+        "fr": "Nos opérations"
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "en": "Contact Us",
+      "fr": "Nous contacter"
+    },
+    "heritage_cta": {
+      "title": {
+        "en": "Help Us Build Canada's Heritage",
+        "fr": "Aidez-nous à construire le patrimoine du Canada"
+      },
+      "description": {
+        "en": "The Committee is always looking for information on anything relevant to Canada's Civil Engineering History and members of the Society and other visitors to this Web Site are encouraged to contact the Committee to pass on any such items or to suggest possible Historic Sites for commemoration.",
+        "fr": "Le Comité recherche toujours des informations sur tout ce qui concerne l'histoire du génie civil du Canada et les membres de la Société et autres visiteurs de ce site Web sont encouragés à contacter le Comité pour transmettre de tels éléments ou suggérer des sites historiques possibles pour commémoration."
+      },
+      "button": {
+        "en": "Share Information",
+        "fr": "Partager des informations"
+      }
+    }
+  },
+  "partners": {
+    "title": {
+      "en": "Our Partners",
+      "fr": "Nos partenaires"
+    },
+    "intro": {
+      "en": "The CSCE National History Committee works closely with various organizations to preserve and promote Canada's civil engineering heritage.",
+      "fr": "Le Comité national d'histoire de la SCGC travaille en étroite collaboration avec diverses organisations pour préserver et promouvoir le patrimoine de génie civil du Canada."
+    }
+  },
+  "resources": {
+    "title": {
+      "en": "Resources",
+      "fr": "Ressources"
+    },
+    "intro": {
+      "en": "Access our comprehensive collection of publications, awards, and external resources related to Canada's civil engineering history.",
+      "fr": "Accédez à notre collection complète de publications, prix et ressources externes liées à l'histoire du génie civil du Canada."
+    }
+  }
+}

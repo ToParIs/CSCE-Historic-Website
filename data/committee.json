@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Mike Bartlett",
+    "title": "Chair",
+    "location": "London, ON"
+  },
+  {
+    "name": "Alistair MacKenzie",
+    "title": "Past Chair",
+    "location": "Burlington, ON"
+  },
+  {
+    "name": "Bruce Higgins",
+    "title": "Secretary",
+    "location": "Halifax, NS"
+  },
+  {
+    "name": "Wade Zwicker",
+    "title": "Ex Officio, Chair ACC",
+    "location": "Edmonton, AB"
+  },
+  {
+    "name": "Vahid Ayan",
+    "title": "Member",
+    "location": "Edmonton, AB"
+  },
+  {
+    "name": "Kevin Baskin",
+    "title": "Member",
+    "location": "Victoria, BC"
+  },
+  {
+    "name": "Niel Van Engelen",
+    "title": "Member",
+    "location": "LaSalle, ON"
+  },
+  {
+    "name": "Gilles Hébert",
+    "title": "Member",
+    "location": "Moncton, NB"
+  },
+  {
+    "name": "Ken Johnson",
+    "title": "Member",
+    "location": "St. Albert, AB"
+  },
+  {
+    "name": "Constantine J. Katsanis",
+    "title": "Member",
+    "location": "Montréal, QC"
+  },
+  {
+    "name": "Peter Langan",
+    "title": "Member",
+    "location": "Toronto, ON"
+  },
+  {
+    "name": "Alan Perks",
+    "title": "Member",
+    "location": "Ottawa, ON"
+  },
+  {
+    "name": "Randy Pickle",
+    "title": "Member",
+    "location": "Vernon, BC"
+  },
+  {
+    "name": "Cal Sexsmith",
+    "title": "Member",
+    "location": "Saskatoon, SK"
+  },
+  {
+    "name": "Tian Wang",
+    "title": "Member",
+    "location": "North Vancouver, BC"
+  },
+  {
+    "name": "Peter Wright",
+    "title": "Member",
+    "location": "Toronto, ON"
+  }
+]

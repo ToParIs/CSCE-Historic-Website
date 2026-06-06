@@ -1,0 +1,156 @@
+{
+  "publications": [
+    {
+      "id": "building-canada-2023",
+      "title": "Building Canada: The CSCE National History Committee",
+      "type": "Article",
+      "date": "2023-06-15",
+      "description": "Comprehensive overview of the committee's work and achievements published in engineering journal.",
+      "file": "documents/building-canada-2023.pdf",
+      "author": "CSCE National History Committee",
+      "category": "Committee Overview"
+    },
+    {
+      "id": "history-notes-2023-01",
+      "title": "History Notes: Early Canadian Railway Engineering",
+      "type": "History Notes",
+      "date": "2023-03-01",
+      "description": "Detailed analysis of early railway construction techniques and their impact on Canadian development.",
+      "file": "documents/history-notes-2023-01.pdf",
+      "author": "Peter Wright",
+      "category": "Historical Research"
+    },
+    {
+      "id": "history-notes-2022-04",
+      "title": "History Notes: Maritime Bridge Construction",
+      "type": "History Notes",
+      "date": "2022-12-15",
+      "description": "Study of historic bridge engineering in Canada's Maritime provinces.",
+      "file": "documents/history-notes-2022-04.pdf",
+      "author": "Bruce Higgins",
+      "category": "Historical Research"
+    },
+    {
+      "id": "notable-engineers-compendium",
+      "title": "Notable Canadian Civil Engineers: A Biographical Compendium",
+      "type": "Reference Document",
+      "date": "2022-08-30",
+      "description": "Comprehensive biographical information about distinguished Canadian civil engineers throughout history.",
+      "file": "documents/notable-engineers-compendium.pdf",
+      "author": "CSCE National History Committee",
+      "category": "Biographical Reference"
+    },
+    {
+      "id": "terms-of-reference-2021",
+      "title": "Terms of Reference - National History Committee",
+      "type": "Official Document",
+      "date": "2021-12-12",
+      "description": "Complete guidelines and procedures for site designation, awards, oral history, and committee operations.",
+      "file": "documents/terms-of-reference-2021.pdf",
+      "author": "CSCE National History Committee",
+      "category": "Official Guidelines"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Heritage Canada Foundation Award",
+      "year": "2019",
+      "description": "Recognition for outstanding contribution to the preservation and promotion of Canada's built heritage through the Historic Sites program.",
+      "presenter": "Heritage Canada Foundation",
+      "significance": "National recognition of the committee's work in preserving engineering heritage"
+    },
+    {
+      "title": "Canadian Engineering Centennial Board Commendation",
+      "year": "2012",
+      "description": "Special commendation for excellence in documenting and preserving the history of Canadian civil engineering achievements.",
+      "presenter": "Canadian Engineering Centennial Board",
+      "significance": "Professional recognition from the broader Canadian engineering community"
+    }
+  ],
+  "external_links": [
+    {
+      "title": "Canadian Society for Civil Engineering",
+      "url": "http://www.csce.ca/",
+      "description": "The official website of the Canadian Society for Civil Engineering.",
+      "category": "Professional Organizations"
+    },
+    {
+      "title": "What Is Civil Engineering? Website",
+      "url": "http://whatiscivilengineering.csce.ca/",
+      "description": "An informative website explaining Civil Engineering and its various disciplines.",
+      "category": "Educational Resources"
+    },
+    {
+      "title": "Engineering Institute of Canada History & Archives Committee",
+      "url": "http://www.eic-ici.ca/english/tour/ha2.html",
+      "description": "Historical archives and documents related to Canadian engineering history and development.",
+      "category": "Professional Archives"
+    },
+    {
+      "title": "American Society of Civil Engineers",
+      "url": "http://www.asce.org/history",
+      "description": "The American Society of Civil Engineers' History & Heritage website.",
+      "category": "International Partners"
+    },
+    {
+      "title": "The Institution of Civil Engineers",
+      "url": "http://www.ice.org.uk/",
+      "description": "The home of the Institution of Civil Engineers on the web.",
+      "category": "International Partners"
+    },
+    {
+      "title": "The Railways of Canada Archive",
+      "url": "http://www.trainweb.org/canadianrailways/",
+      "description": "An informative site about Canadian Railways that details their history and development.",
+      "category": "Transportation History"
+    },
+    {
+      "title": "Canadian National Railways",
+      "url": "http://www.cn.ca/",
+      "description": "CN Rail's official home on the web.",
+      "category": "Transportation History"
+    },
+    {
+      "title": "Canadian Pacific Railways",
+      "url": "http://www.cpr.ca/",
+      "description": "CP Rail's website.",
+      "category": "Transportation History"
+    },
+    {
+      "title": "Bridges Over Niagara Falls",
+      "url": "http://www.iaw.com/~falls/bridges.html",
+      "description": "A history of the bridges over Niagara Falls.",
+      "category": "Specialized Resources"
+    },
+    {
+      "title": "Parks Canada - National Historic Sites",
+      "url": "https://www.pc.gc.ca/en/culture/designation/sites",
+      "description": "Official database of Canada's National Historic Sites, including many civil engineering landmarks.",
+      "category": "Government Resources"
+    },
+    {
+      "title": "American Society of Civil Engineers - Historic Landmarks",
+      "url": "https://www.asce.org/about-asce/history-and-heritage/historic-civil-engineering-landmarks",
+      "description": "ASCE's historic civil engineering landmarks program, including joint designations with CSCE.",
+      "category": "International Partners"
+    },
+    {
+      "title": "Canadian Museum of Science and Technology",
+      "url": "https://ingeniumcanada.org/scitech",
+      "description": "National museum with extensive collections related to Canadian engineering and technological achievements.",
+      "category": "Museums & Collections"
+    },
+    {
+      "title": "Structurae - International Database",
+      "url": "https://structurae.net",
+      "description": "Comprehensive international database of structures and civil engineering projects, including many Canadian sites.",
+      "category": "Technical Databases"
+    },
+    {
+      "title": "Historic Bridges - Canada Section",
+      "url": "https://historicbridges.org/canada/",
+      "description": "Detailed documentation and photographs of historic bridges across Canada.",
+      "category": "Specialized Resources"
+    }
+  ]
+}
